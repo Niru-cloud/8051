@@ -31,7 +31,7 @@ Since the library is licensed free of charge, there is no warranty for the libra
 Errors and omissions should be reported to feedback@xplorelabz.com
 
 adc.c- ADC 0808/0809 C Library
-                                  8051 ADC0808/9 library.
+                                  8051 ADC0808/9 library
 Filename: adc.c
 Controller: P89V51RD2/89c51(8051 family)
 Oscillator: 11.0592 MHz
