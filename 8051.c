@@ -1,7 +1,7 @@
 
 /*
 
-8051  Microcontroller Family C Library
+8051 MC Family C Library
 Introduction
 This library can be used for anyone starting with 8051 family of microcontrollers. The code has been tested on Ultra_X51 development board by xplore labz. The schematic can be downloaded from product page. If you're testing it on any other platform please refer to its schematic. Overview: This manual is designed to help embedded programmers and students, rapidly exploit the 8051-Controller for embedded applications. This manual has been targeted at embedded systems programmers and Students who have basic knowledge of 8051 architecture and C-Language. This manual provides the reference to all the library functions which are grouped under respective .c file. The .c files convention is as per the peripherals. The peripherals (lcd, keypad..) are connected to default PORTs which can be connected to required PORTs by changing the #defines and sbit.
 Reference:
